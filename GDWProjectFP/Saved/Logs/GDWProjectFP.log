@@ -1460,3 +1460,5 @@ Minimum required: 527.27
 [2023.09.13-18.44.01:998][779]LogViewport: Scene viewport resized to 1139x823, mode Windowed.
 [2023.09.13-18.44.04:576][847]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
 [2023.09.13-18.44.07:794][996]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2023.09.13-18.45.21:595][699]LogSlate: Window 'Save Level As' being destroyed
+[2023.09.13-18.45.21:609][700]LogAutomationController: Ignoring very large delta of 3.48 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
