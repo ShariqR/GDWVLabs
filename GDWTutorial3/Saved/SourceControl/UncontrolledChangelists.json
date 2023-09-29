@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/GDW V Labs/GDWLabs/GDWTutorial3/Content/Turret/Turret/BP_Turret.uasset",
+				"D:/GDW V Labs/GDWLabs/GDWTutorial3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/AN/WYBFTEWU08MYSI2J6CBRQQ.uasset",
+				"D:/GDW V Labs/GDWLabs/GDWTutorial3/Content/Turret/Bullet/BP_Bullet.uasset",
+				"D:/GDW V Labs/GDWLabs/GDWTutorial3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/EL/1TFWOG81M7BO4SQLVSRZDW.uasset",
+				"D:/GDW V Labs/GDWLabs/GDWTutorial3/Content/Turret/Bullet/BP_Bullet.uasset",
+				"D:/GDW V Labs/GDWLabs/GDWTutorial3/Content/Turret_Folder/Bullet/BP_Bullet.uasset",
+				"D:/GDW V Labs/GDWLabs/GDWTutorial3/Content/Turret_Folder/Turret/BP_Turret.uasset"
+			]
+		}
+	]
+}
