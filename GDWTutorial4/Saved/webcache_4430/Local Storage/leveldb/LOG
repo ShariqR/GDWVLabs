@@ -1,6 +1,3 @@
-2023/10/20-11:33:05.081 35b0 Reusing MANIFEST D:/GDW V Labs/GDWLabs/GDWTutorial4/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2023/10/20-11:33:05.388 35b0 Recovering log #4
-2023/10/20-11:33:05.389 35b0 Reusing old log D:/GDW V Labs/GDWLabs/GDWTutorial4/Saved/webcache_4430\Local Storage\leveldb/000004.log 
-2023/10/20-11:34:47.609 4314 Level-0 table #8: started
-2023/10/20-11:34:47.671 4314 Level-0 table #8: 15289 bytes OK
-2023/10/20-11:34:47.737 4314 Delete type=0 #4
+2023/10/20-12:33:50.975 1b28 Reusing MANIFEST D:/GDW V Labs/GDWLabs/GDWTutorial4/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/10/20-12:33:50.976 1b28 Recovering log #7
+2023/10/20-12:33:50.977 1b28 Reusing old log D:/GDW V Labs/GDWLabs/GDWTutorial4/Saved/webcache_4430\Local Storage\leveldb/000007.log 
