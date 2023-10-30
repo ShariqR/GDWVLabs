@@ -5,13 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/GDW V Labs/GDWLabs/GDWTutorial4/Content/Materials/SampleMaterial.uasset",
 				"D:/GDW V Labs/GDWLabs/GDWTutorial4/Content/LevelMap.umap",
 				"D:/GDW V Labs/GDWLabs/GDWTutorial4/Content/Materials/MAT_Landscape.uasset",
 				"D:/GDW V Labs/GDWLabs/GDWTutorial4/Content/LevelMap_sharedassets/Grass_LayerInfo.uasset",
 				"D:/GDW V Labs/GDWLabs/GDWTutorial4/Content/LevelMap_sharedassets/Rock_LayerInfo.uasset",
 				"D:/GDW V Labs/GDWLabs/GDWTutorial4/Content/LevelMap_sharedassets/Sand_LayerInfo.uasset",
-				"D:/GDW V Labs/GDWLabs/GDWTutorial4/Content/LevelMap_sharedassets/Path_LayerInfo.uasset"
+				"D:/GDW V Labs/GDWLabs/GDWTutorial4/Content/LevelMap_sharedassets/Path_LayerInfo.uasset",
+				"D:/GDW V Labs/GDWLabs/GDWTutorial4/Content/Blueprints/BP_Objective.uasset",
+				"D:/GDW V Labs/GDWLabs/GDWTutorial4/Content/Blueprints/AI_Enemy.uasset",
+				"D:/GDW V Labs/GDWLabs/GDWTutorial4/Content/Blueprints/BP_Goal.uasset",
+				"D:/GDW V Labs/GDWLabs/GDWTutorial4/Content/Materials/SampleMaterial.uasset"
 			]
 		}
 	]

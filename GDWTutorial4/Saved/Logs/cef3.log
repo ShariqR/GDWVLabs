@@ -1,1 +1,2 @@
-[1020/141939.608:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1027/121909.755:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1027/192944.885:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)
