@@ -1,8 +1,0 @@
-[1029/212108.423:ERROR:database.cc(1707)] Cookie sqlite error 5, errno 33: database is locked, sql: DELETE FROM cookies WHERE is_persistent != 1
-[1029/212108.424:WARNING:sqlite_persistent_cookie_store.cc(1455)] Unable to delete session cookies.
-[1029/212109.137:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
-[1029/212109.137:ERROR:cache_util.cc(144)] Unable to move cache folder D:/GDW V Labs/GDWLabs/GDWTutorial4/Saved/webcache_4430\Cache to D:/GDW V Labs/GDWLabs/GDWTutorial4/Saved/webcache_4430\old_Cache_000
-[1029/212109.143:ERROR:disk_cache.cc(184)] Unable to create cache
-[1029/212119.606:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[1029/212248.417:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[1029/212248.425:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
